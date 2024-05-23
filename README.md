@@ -3,6 +3,9 @@
 ## Visão Geral
 Esta aplicação móvel, desenvolvida em React Native, implementa um sistema de navegação com autenticação de usuário (login e cadastro) e navegação entre diferentes telas de filmes. Utiliza diversas bibliotecas como `react-navigation`, `react-native-elements`, `react-native-paper`, `AsyncStorage` e componentes de UI do `react-native`.
 
+![sexo](https://github.com/caioarnoni21/Projeto/assets/166638927/f7652994-5a4f-4c2f-be14-9d029a6f2a0b)
+
+
 ## Estrutura do Projeto
 O projeto está dividido em várias classes e componentes que representam diferentes telas e funcionalidades da aplicação:
 
